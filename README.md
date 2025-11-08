@@ -1,10 +1,5 @@
 <p align="left"></p>
 
-###
-
-<div align="center">
-  <img height="265" src="https://i.pinimg.com/736x/b5/9f/46/b59f46e029c50546f9b0534d445795e5.jpg"  />
-</div>
 
 ###
 
