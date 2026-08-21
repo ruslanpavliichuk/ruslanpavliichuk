@@ -4,7 +4,6 @@
 ###
 
 <h3 align="center">RUSLAN PAVLIICHUK</h3>
-<p align="center">Studying Machine Learning and Artificial Intelligence, with a focus on PyTorch and building data-driven applications.</p>
 
 ###
 
